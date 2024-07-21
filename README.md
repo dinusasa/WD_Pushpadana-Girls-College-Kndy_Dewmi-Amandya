@@ -1,6 +1,7 @@
 # Neon Website
 
-![Neon Website](./images/neon-screenshot.png)
+![Neon Website](./![image](https://github.com/user-attachments/assets/b097b223-5836-40c8-ad51-9000caf208db)
+)
 
 ## Description
 Welcome to the Neon website, a vibrant showcase of modern web design elements and creative aesthetics. This website serves as a demonstration of sleek, responsive layouts and dynamic user interfaces, highlighting the use of advanced CSS techniques and JavaScript interactivity.
@@ -9,7 +10,4 @@ Explore various sections of the Neon website to discover innovative design patte
 
 Visit the live website: https://dinusasa.github.io/neon/
 
-## Table of Contents
-- [Description](#description)
-- [Screenshot](#screenshot)
-- [License](#license)
+
