@@ -15,10 +15,11 @@
   transition: all 5s;
 }
 *::selection {
-  background-color: hsl(0, 0%, 5%);
+  background-color: #0f6358;
 }
 
 body {
+  font-weight: lighter;
   color: white;
   background-color: hsl(0, 0%, 5%);
   font-weight: 100;
