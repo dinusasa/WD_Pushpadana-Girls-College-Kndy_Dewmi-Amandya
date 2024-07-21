@@ -1,6 +1,8 @@
 #ElectroBotics
 
-![Neon Website](./images/Screenshot_22-7-2024_04132_127.0.0.1.jpeg
+![Neon Website](./images/main.jpeg
+)
+![Neon Website](./images/about.jpeg
 )
 
 ## Description
