@@ -1,6 +1,6 @@
 # Neon Website
 
-![Neon Website](./![image](https://github.com/user-attachments/assets/b097b223-5836-40c8-ad51-9000caf208db)
+![Neon Website](./
 )
 
 ## Description
