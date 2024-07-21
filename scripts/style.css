@@ -19,29 +19,8 @@
 }
 
 body {
-  font-weight: lighter;
   color: white;
-  background: linear-gradient(
-      to bottom,
-      #00040b,
-      #001023,
-      #00183c,
-      #001f54,
-      #00276d,
-      #002f86,
-      #00379f,
-      #003fb8,
-      #0047d1,
-      #004fea,
-      #0058ff,
-      #004dd6,
-      #0043ad,
-      #003984,
-      #002f5c,
-      #002434
-    )
-    no-repeat center center fixed;
-  background-size: cover;
+  background-color: hsl(0, 0%, 5%);
   font-weight: 100;
 }
 
